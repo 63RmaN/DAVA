@@ -37,4 +37,23 @@ Vulnerability assessment
 SIEM integration
 Security analytics
 
+*Component	Purpose*
+
+*Voice Activity Detection:	  *Detects when the user is speaking.
+
+*Speech-to-Text:	            *Converts voice into text
+
+*Local LLM:	                  *Interprets natural language and determines intent
+
+*Intent Parser:	              Maps requests to approved administrative actions
+
+*PowerShell Engine:           Executes automation tasks
+
+*Remote Agent:	              Performs actions on managed Windows endpoints
+
+*Text-to-Speech:	            Reads responses aloud
+
+*Logging Module:	            Records executed commands and outcomes
+
+
 ****please note that this is only the front facing "GUI", there are a number of scripts behind the scenes, this script alone would not work, building it for support and automation****
