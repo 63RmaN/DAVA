@@ -1,2 +1,38 @@
 # DAVA
 AI-powered endpoint administration platform for Windows and Linux featuring voice control, local LLM reasoning, remote management, and IT automation.
+DAVA – AI-Driven Endpoint Administration Platform
+
+DAVA (Distributed AI Voice Assistant) is an AI-powered endpoint administration platform designed for IT operations and cybersecurity environments.
+
+Unlike traditional voice assistants, DAVA combines local AI reasoning, voice interaction, PowerShell automation, and remote endpoint management into a single platform capable of assisting with troubleshooting, diagnostics, and administrative tasks.
+
+The project is designed to operate primarily with locally hosted AI models, minimizing cloud dependencies while allowing secure and extensible endpoint management.
+
+Current capabilities include:
+
+Voice-controlled administration
+Local LLM integration (Ollama)
+Speech recognition
+Text-to-speech responses
+Windows endpoint diagnostics
+Remote PowerShell execution
+Temporary endpoint agent
+Automated troubleshooting
+AI-assisted code debugging
+Active Directory administration
+Email analysis
+Translation workspace
+Memo management
+Security investigation reports
+
+Future roadmap:
+
+Linux endpoint support
+Plugin architecture
+AI incident response
+Endpoint inventory
+Web dashboard
+Multi-endpoint orchestration
+Vulnerability assessment
+SIEM integration
+Security analytics
