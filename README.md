@@ -36,3 +36,5 @@ Multi-endpoint orchestration
 Vulnerability assessment
 SIEM integration
 Security analytics
+
+****please note that this is only the front facing "GUI", there are a number of scripts behind the scenes, this script alone would not work****
