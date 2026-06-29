@@ -23,7 +23,7 @@ class DAVA:
         self.use_creds      = False
         self.username       = None
         self.password       = None
-        self.domain         = "jestais.local"
+        self.domain         = "domain.local" #example
 
     # ----------------------------------------------------------------
     #  POWERSHELL COMMAND ROUTER -- local or remote via WinRM
