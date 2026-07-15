@@ -1,4 +1,4 @@
-# DAVA
+# DAVA - here is the link to the video manual explanation: https://www.youtube.com/watch?v=doVjiXliNyA
 AI-powered endpoint administration platform for Windows and Linux featuring voice control, local LLM reasoning, remote management, and IT automation.
 DAVA – AI-Driven Endpoint Administration Platform
 
