@@ -56,6 +56,8 @@ Security analytics
 *Logging Module:	            Records executed commands and outcomes
 
 
+#### here is the link to the video manual explanation: https://www.youtube.com/watch?v=doVjiXliNyA
+
 ****please note that this is only the front facing "GUI", there are a number of scripts behind the scenes, this script alone would not work, building it for support and automation****
 
 ****soon I will add a video link for demo purposes***
