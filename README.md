@@ -1,4 +1,4 @@
-# DAVA - here is the link to my AI too videos:https://www.youtube.com/@artemisCybersecurity460/videos
+# DAVA - here is the link to my AI tool videos:https://www.youtube.com/@artemisCybersecurity460/videos
 AI-powered endpoint administration platform for Windows and Linux featuring voice control, local LLM reasoning, remote management, and IT automation.
 DAVA – AI-Driven Endpoint Administration Platform
 
